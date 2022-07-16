@@ -7,7 +7,7 @@ Articulo:
 
 https://moaramore.com/2016/05/14/clasificacion-de-las-naves-espaciales
 
-## configuracion
+## CONFIGURACION LOCAL
 
 VERSION DE JDK               : Java JDK 11
 IDE                          : IntelliJ IDEA Community Edition
